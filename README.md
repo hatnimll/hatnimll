@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatnimll)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💻 프로젝트
-- [Pollooop](https://pollloop.vercel.app) -Pollloop은 동적으로 업데이트되는 설문 & QnA 플랫폼입니다. 사용자는 다양한 유형의 설문을 쉽게 생성하고 관리할 수 있습니다. **기술 스택**: React, TypeScript, Redux, Tailwind CSS, Axios
+- [Pollooop GitHub](https://github.com/soheekimdev/Pollloop) -Pollloop은 동적으로 업데이트되는 설문 & QnA 플랫폼입니다. 사용자는 다양한 유형의 설문을 쉽게 생성하고 관리할 수 있습니다. **기술 스택**: React, TypeScript, Redux, Tailwind CSS, Axios
   
-- [Hakumatataro](https://hakunamatatarot.com) -AI 챗봇 연애 전문 타로 상담 서비스입니다. 생성형 AI를 사용하여 사용자 입력에 따라 맞춤형 연애 타로 상담을 제공해줍니다.  **기술 스택**: Next.js, TypeScript, Zustand, React Query(TanStack Query)
+- [Hakumatataro GitHub](https://github.com/tataro-project/Tataro-FE) -AI 챗봇 연애 전문 타로 상담 서비스입니다. 생성형 AI를 사용하여 사용자 입력에 따라 맞춤형 연애 타로 상담을 제공해줍니다.  **기술 스택**: Next.js, TypeScript, Zustand, React Query(TanStack Query)
